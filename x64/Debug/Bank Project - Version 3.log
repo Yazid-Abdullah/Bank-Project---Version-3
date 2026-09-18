@@ -1,0 +1,5 @@
+﻿  Bank Project - Version 3.cpp
+C:\Users\C-ROAD\source\repos\Bank Project - Version 3\Bank Project - Version 3\Bank Project - Version 3.cpp(41,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\C-ROAD\source\repos\Bank Project - Version 3\Bank Project - Version 3\Bank Project - Version 3.cpp(434,1): warning C4715: 'getClientInformationByAccountNumber': not all control paths return a value
+C:\Users\C-ROAD\source\repos\Bank Project - Version 3\Bank Project - Version 3\Bank Project - Version 3.cpp(447,1): warning C4715: 'getUserInformationByName': not all control paths return a value
+  Bank Project - Version 3.vcxproj -> C:\Users\C-ROAD\source\repos\Bank Project - Version 3\x64\Debug\Bank Project - Version 3.exe
