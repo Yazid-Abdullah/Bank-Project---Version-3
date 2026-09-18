@@ -860,6 +860,12 @@ void DeleteUser() {
 	char sure = 'f';
 
 	user = getExistingUser();
+
+	if (user.name == "Yazid") {
+		cout << "You can not delete this user" << endl;
+		return;
+	}
+
 	printUserDetails(user);
 	cout << endl;
 
